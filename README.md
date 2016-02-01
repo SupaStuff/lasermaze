@@ -1,0 +1,2 @@
+# lasermaze
+Laser Maze is a single player board game where the player arranges tokens to make a laser from a single source hit the designated target(s). I bought this for my niece and she really likes it, but i want her to understand the physics of optics. Instead of looking like a magician by adding smoke to the lights and mirrors, I'll make an app for her to play. (Also, her iPad gets more attention than Laser Maze).
